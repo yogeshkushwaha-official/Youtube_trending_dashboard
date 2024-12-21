@@ -1,7 +1,3 @@
-Here’s your README file in a single, consolidated form:
-
----
-
 # YouTube Trending Analysis Dashboard
 
 ## Overview
